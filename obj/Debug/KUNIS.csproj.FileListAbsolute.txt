@@ -1,0 +1,21 @@
+E:\KUNIS\KUNIS\bin\Debug\KUNIS.exe
+E:\KUNIS\KUNIS\bin\Debug\KUNIS.pdb
+E:\KUNIS\KUNIS\obj\Debug\ResolveAssemblyReference.cache
+E:\KUNIS\KUNIS\obj\Debug\KUNIS.frmSchool.resources
+E:\KUNIS\KUNIS\obj\Debug\KUNIS.Properties.Resources.resources
+E:\KUNIS\KUNIS\obj\Debug\KUNIS.csproj.GenerateResource.Cache
+E:\KUNIS\KUNIS\obj\Debug\KUNIS.exe
+E:\KUNIS\KUNIS\obj\Debug\KUNIS.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.frmSchool.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.frmDepartment.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.frmMessage.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.frmProgramme.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.frmStudent.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.frmUser.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\KUNIS\KUNIS\obj\Debug\KUNIS.csproj.GenerateResource.Cache
+E:\KUNIS\obj\Debug\KUNIS.exe
+E:\KUNIS\obj\Debug\KUNIS.pdb
